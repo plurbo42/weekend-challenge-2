@@ -1,0 +1,10 @@
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+
+body {
+    font-family: Courier New, Courier, monospace;
+}
